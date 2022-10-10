@@ -2,6 +2,7 @@
 Program work on linux 
 Compil and in terminal write 
 "sudo ./PING <address>"
+
 where <address> is the IP address of the checked node or its domain name. As a result of the console operation, information about programs was displayed, the main information was duplicated in the “LogFile.txt” file. It is located by default in the same place as the program.
 
 exemple
